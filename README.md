@@ -16,3 +16,5 @@ Prelabs:
 1. [Manuel Viejo's Prelab 2](//github.com/mviejo33/IDD-Fa18-PreLab2)
 
 2. [Manuel Viejo's Prelab 3](//github.com/mviejo33/IDD-Fa18-PreLab3)
+
+3. [Manuel Viejo's Prelab 4](//github.com/mviejo33/IDD-Fa18-PreLab4)
