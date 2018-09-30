@@ -11,6 +11,9 @@ Completed Labs for Manuel Viejo
 3. [Manuel Viejo's Lab 3](//github.com/mviejo33/IDD-Fa18-Lab3)
 
 
+4. [Manuel Viejo's Lab 4](//github.com/mviejo33/IDD-Fa18-Lab4)
+
+
 Prelabs:
 
 1. [Manuel Viejo's Prelab 2](//github.com/mviejo33/IDD-Fa18-PreLab2)
