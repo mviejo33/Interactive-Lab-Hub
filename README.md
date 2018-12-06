@@ -32,7 +32,7 @@ Prelabs:
 
 Final Project:
 
-[Manuel Viejo's Final Project](//github.com/mviejo33/IDD-Fa18-Final-Project)
+   [Manuel Viejo's Final Project](//github.com/mviejo33/jam-box)
 
 
 
