@@ -28,7 +28,11 @@ Prelabs:
 
 3. [Manuel Viejo's Prelab 4](//github.com/mviejo33/IDD-Fa18-PreLab4)
 
-3. [Manuel Viejo's Prelab 5](//github.com/mviejo33/IDD-Fa18-PreLab5)
+4. [Manuel Viejo's Prelab 5](//github.com/mviejo33/IDD-Fa18-PreLab5)
+
+Final Project:
+
+[Manuel Viejo's Final Project](//github.com/mviejo33/IDD-Fa18-Final-Project)
 
 
 
